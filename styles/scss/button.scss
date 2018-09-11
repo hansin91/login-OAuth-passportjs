@@ -1,0 +1,17 @@
+.btn {
+	color: #fff;
+	text-decoration: none;
+	font-size: 18px;
+	display: block;
+	padding: 10px;
+	&-google {
+		background: #ff5353;
+	}
+	&-facebook {
+		background: #3b5998;
+	}
+}
+
+.btn-container {
+	display: inline-block;
+}
